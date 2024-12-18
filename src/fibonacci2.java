@@ -9,8 +9,8 @@ public class fibonacci2 {
     }
 
 
-    private static int b=1;
-    private static int c=0;
+    public static int b=1;
+    public static int c=0;
 
 
     public static long fibonaccihoPostupnost(int a)
